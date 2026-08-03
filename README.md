@@ -1,0 +1,1 @@
+# N-natural-numbers-upto-10
